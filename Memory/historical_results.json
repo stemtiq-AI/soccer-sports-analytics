@@ -1,0 +1,177 @@
+{
+  "results": [
+    {
+      "match_id": "PL-2025-GW01-ARS-LIV",
+      "date": "2025-08-16",
+      "home_team": "Arsenal",
+      "away_team": "Liverpool",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": {
+        "home": [
+          "Saka",
+          "Havertz"
+        ],
+        "away": [
+          "Salah",
+          "Gakpo"
+        ]
+      },
+      "stats": {
+        "possession": {
+          "home": 55,
+          "away": 45
+        },
+        "shots": {
+          "home": 12,
+          "away": 10
+        }
+      }
+    },
+    {
+      "match_id": "PL-2025-GW01-CHE-MCI",
+      "date": "2025-08-16",
+      "home_team": "Chelsea",
+      "away_team": "Manchester City",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": {
+        "home": [],
+        "away": [
+          "Haaland",
+          "Haaland"
+        ]
+      },
+      "stats": {
+        "possession": {
+          "home": 38,
+          "away": 62
+        },
+        "shots": {
+          "home": 7,
+          "away": 15
+        }
+      }
+    },
+    {
+      "match_id": "PL-2025-GW02-LIV-CHE",
+      "date": "2025-08-23",
+      "home_team": "Liverpool",
+      "away_team": "Chelsea",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": {
+        "home": [
+          "Salah",
+          "Salah",
+          "Nunez"
+        ],
+        "away": [
+          "Palmer"
+        ]
+      },
+      "stats": {
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "shots": {
+          "home": 16,
+          "away": 8
+        }
+      }
+    },
+    {
+      "match_id": "PL-2025-GW02-MCI-ARS",
+      "date": "2025-08-23",
+      "home_team": "Manchester City",
+      "away_team": "Arsenal",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": {
+        "home": [
+          "De Bruyne"
+        ],
+        "away": [
+          "Saka"
+        ]
+      },
+      "stats": {
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "shots": {
+          "home": 13,
+          "away": 9
+        }
+      }
+    },
+    {
+      "match_id": "PL-2025-GW03-ARS-CHE",
+      "date": "2025-08-30",
+      "home_team": "Arsenal",
+      "away_team": "Chelsea",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": {
+        "home": [
+          "Saka",
+          "Havertz"
+        ],
+        "away": [
+          "Palmer"
+        ]
+      },
+      "stats": {
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "shots": {
+          "home": 14,
+          "away": 9
+        }
+      }
+    },
+    {
+      "match_id": "PL-2025-GW04-LIV-ARS",
+      "date": "2025-09-13",
+      "home_team": "Liverpool",
+      "away_team": "Arsenal",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": {
+        "home": [
+          "Salah",
+          "Nunez"
+        ],
+        "away": [
+          "Saka"
+        ]
+      },
+      "stats": {
+        "possession": {
+          "home": 54,
+          "away": 46
+        },
+        "shots": {
+          "home": 15,
+          "away": 11
+        }
+      }
+    }
+  ]
+}

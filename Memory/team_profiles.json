@@ -1,0 +1,36 @@
+{
+  "teams": [
+    {
+      "name": "Arsenal",
+      "short_code": "ARS",
+      "league": "Premier League",
+      "country": "England",
+      "venue": "Emirates Stadium",
+      "roster": ["Raya", "White", "Saliba", "Gabriel", "Timber", "Rice", "Odegaard", "Havertz", "Saka", "Martinelli", "Jesus"]
+    },
+    {
+      "name": "Chelsea",
+      "short_code": "CHE",
+      "league": "Premier League",
+      "country": "England",
+      "venue": "Stamford Bridge",
+      "roster": ["Sanchez", "James", "Fofana", "Colwill", "Cucurella", "Caicedo", "Fernandez", "Palmer", "Madueke", "Nkunku", "Jackson"]
+    },
+    {
+      "name": "Liverpool",
+      "short_code": "LIV",
+      "league": "Premier League",
+      "country": "England",
+      "venue": "Anfield",
+      "roster": ["Alisson", "Alexander-Arnold", "Van Dijk", "Konate", "Robertson", "Mac Allister", "Szoboszlai", "Gravenberch", "Salah", "Gakpo", "Nunez"]
+    },
+    {
+      "name": "Manchester City",
+      "short_code": "MCI",
+      "league": "Premier League",
+      "country": "England",
+      "venue": "Etihad Stadium",
+      "roster": ["Ederson", "Walker", "Dias", "Akanji", "Gvardiol", "Rodri", "De Bruyne", "Bernardo", "Foden", "Grealish", "Haaland"]
+    }
+  ]
+}

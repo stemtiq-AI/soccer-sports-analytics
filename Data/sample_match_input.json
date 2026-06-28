@@ -1,0 +1,35 @@
+{
+  "match_id": "PL-2025-GW04-LIV-ARS",
+  "league": "Premier League",
+  "season": "2025-26",
+  "gameweek": 4,
+  "date": "2025-09-13",
+  "venue": "Anfield",
+  "home_team": {
+    "name": "Liverpool",
+    "lineup": ["Alisson", "Alexander-Arnold", "Van Dijk", "Konate", "Robertson",
+               "Mac Allister", "Szoboszlai", "Gravenberch", "Salah", "Gakpo", "Nunez"],
+    "formation": "4-3-3"
+  },
+  "away_team": {
+    "name": "Arsenal",
+    "lineup": ["Raya", "White", "Saliba", "Gabriel", "Timber",
+               "Rice", "Odegaard", "Havertz", "Saka", "Martinelli", "Jesus"],
+    "formation": "4-3-3"
+  },
+  "events": [
+    {"minute": 12, "type": "goal", "team": "home", "player": "Salah", "assist": "Alexander-Arnold"},
+    {"minute": 34, "type": "yellow_card", "team": "away", "player": "Rice"},
+    {"minute": 45, "type": "yellow_card", "team": "home", "player": "Gravenberch"},
+    {"minute": 55, "type": "goal", "team": "away", "player": "Saka", "assist": "Odegaard"},
+    {"minute": 67, "type": "substitution", "team": "home", "player_in": "Diaz", "player_out": "Gakpo"},
+    {"minute": 72, "type": "goal", "team": "home", "player": "Nunez", "assist": "Salah"},
+    {"minute": 80, "type": "substitution", "team": "away", "player_in": "Nketiah", "player_out": "Jesus"},
+    {"minute": 88, "type": "yellow_card", "team": "away", "player": "Timber"}
+  ],
+  "stats": {
+    "home": {"possession": 54, "shots": 15, "shots_on_target": 7, "corners": 6, "fouls": 10},
+    "away": {"possession": 46, "shots": 11, "shots_on_target": 5, "corners": 5, "fouls": 13}
+  },
+  "result": {"home_goals": 2, "away_goals": 1}
+}

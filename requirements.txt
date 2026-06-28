@@ -1,0 +1,11 @@
+# Soccer Sports Analytics — Dependencies
+# Disclaimer: Internship project for upskilling in agentic AI.
+
+# Core (no external dependencies needed for the sample pipeline)
+# The system uses only Python standard library (json, os, datetime, time)
+
+# For production use, you would add:
+# openai>=1.0.0          # LLM API client (add your API key in agent files)
+# requests>=2.31.0       # HTTP client for live data feeds
+# pandas>=2.0.0          # Data manipulation for larger datasets
+# numpy>=1.24.0          # Numerical computation for probability models

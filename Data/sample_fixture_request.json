@@ -1,0 +1,8 @@
+{
+  "request_type": "prediction",
+  "home_team": "Arsenal",
+  "away_team": "Chelsea",
+  "league": "Premier League",
+  "date": "2025-12-15",
+  "gameweek": 16
+}
