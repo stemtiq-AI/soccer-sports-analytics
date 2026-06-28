@@ -1,6 +1,6 @@
 # Soccer Sports Analytics — Multi-Agent System
 
-> **Disclaimer**: This is an internship project meant for upskilling in agentic AI. It uses sample data and simulated API connections. Not intended for production, betting, or gambling use.
+> **Disclaimer**: This is an internship project meant for upskilling in agentic AI. Not intended for production, betting, or gambling use.
 
 ## Overview
 
